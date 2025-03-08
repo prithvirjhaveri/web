@@ -1,4 +1,14 @@
 [
+  
+    {
+  "name": "factCheck",
+  "description": "FactCheck fights disinformation with truth-seeking markets and AI agents.",
+  "url": "https://www.factcheck.fun/",
+  "imageUrl": "/images/partners/factCheck.png",
+  "category": “ai”,
+  "subcategory": “ai”
+  },
+  
   {
     "name": "Heurist AI",
     "description": "Heurist is a decentralized AI-as-a-Service cloud. Run AI and Agents via API.",
